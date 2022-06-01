@@ -1,22 +1,22 @@
 ﻿[LevelInfo0]
 ; EN: Title="Chizra - Nali Water God"
-Title="Templo do Chizra-Deus Nali da Água"
+Title="Chizra - Deus Nali da Água"
 ; EN: LevelEnterText="Entering Chizra - The Nali Water God Temple"
-LevelEnterText="Esta entrando no Templo do Chizra-Deus Nali da Água"
+LevelEnterText="Adentrando Templo de Chizra - Deus Nali da Água"
 
 [LevelSummary]
 ; EN: Title="Chizra - Nali Water God"
-Title="Templo do Chizra-Deus Nali da Água"
+Title="Chizra - Deus Nali da Água"
 ; EN: LevelEnterText="Entering Chizra - The Nali Water God Temple"
-LevelEnterText="Esta entrando no Templo do Chizra-Deus Nali da Água"
+LevelEnterText="Adentrando Templo de Chizra - Deus Nali da Água"
 
 [TranslatorEvent7]
 ; EN: Message="The Nali Water God Chizra and his holy temple has been overrun by the water serpents and the demons who came from the stars. Only the messiah can purify the temple now."
-Message="O deus Nali da água Chizra e seu santo templo foram subjugados pelas serpentes marinhas e pelos demônios que vieram das estrelas. Somente o messias pode purificar o templo agora."
+Message="Chizra, e deus da água Nali e seu templo sagrado foram invadidos pelas serpentes aquáticas e pelos demônios que vieram das estrelas. Somente o messias pode purificar o templo agora."
 
 [TranslatorEvent11]
 ; EN: Message="Take the stick of 6 fires and go forth to the inner ceremonial chamber. There you shall find you way back to the place from whence you came and the metal chariot that fell from the stars."
-Message="Leve o bastão de 6 fogos e vá adiante para a câmara cerimonial interna. Lá você encontrará o caminho de volta de onde você veio e a carruagem de metal que caiu das estrelas."
+Message="Leve o bastão de 6 fogos e vá adiante para a câmara cerimonial interna. Lá você encontrará o caminho de volta de onde você veio e a carruagem metálica que caiu das estrelas."
 
 [TranslatorEvent20]
 ; EN: Message="Look into your own eyes. And when your courage is strongest your last step to the prize will be upheld by your faith."
@@ -24,7 +24,7 @@ Message="Olhe em seus próprios olhos. E quando a sua coragem for a mais forte, 
 
 [TranslatorEvent8]
 ; EN: Message="The stick of 6 fires can only be reached by a warrior who has bathed in the pool of thunder, past the obelisk of the clouds."
-Message="O bastão de 6 fogos só pode ser alcançado por um guerreiro que tenha se banhado na piscina do trovão, passado o obelisco das nuvens."
+Message="O bastão de 6 fogos só pode ser alcançado por um guerreiro que tenha se banhado na piscina do trovão, além o obelisco das nuvens."
 
 [TranslatorEvent9]
 ; EN: Message="The pyramid is the key to the chamber of death. Here you shall find more power for the stick of 6 fires."
@@ -38,15 +38,15 @@ CompleteMessage="A balsa esta solta"
 
 [TranslatorEvent6]
 ; EN: Message="Beyond this stone seal lies the inner ceremonial chambers of the Nali water god."
-Message="Alem deste selo de pedra repousam as câmaras cerimoniais interiores do deus Nali da água."
+Message="Alem deste selo de pedra repousam as câmaras cerimoniais interiores do deus da água Nali."
 
 [TranslatorEvent18]
 ; EN: Message="Beyond this golden door lies the holy altar of the stick of 6 fires. Only by touching the outset stones of the lightning fire pillars may one enter."
-Message="Alem desta porta dourada repousa o santo altar do bastão de 6 fogos. Apenas através do toque na origem das pedras dos pilares do fogo relampejante um poderá entrar."
+Message="Alem desta porta dourada repousa o santo altar do bastão de 6 fogos. Apenas através do toque nas pedras da base dos pilares do fogo relampejante poderás entrar."
 
 [TranslatorEvent14]
 ; EN: Message="The demons came down from the stars in a metal chariot as punishment for the sins of The Nali."
-Message="Os demônios vieram das estrelas numa carruagem de metal como forma de castigo para os pecados dos Nali."
+Message="Os demônios vieram das estrelas numa carruagem metálica como forma de castigo para os pecados dos Nali."
 
 [TranslatorEvent5]
 ; EN: Message="Only a warrior who wields the stick of 6 fires may enter the inner ceremonial chambers. Once the stick of 6 fires is in your grasp the stone seal will rise."
