@@ -16,11 +16,11 @@ Message="SMU Prometeu - Circuitos de energia: Aviso: Sobrecarga de circuito dete
 
 [TranslatorEvent11]
 ; EN: Message="Log Oliver F. Russel, Scientific Assistant: I know that we got something in the water tanks again. Peter saw some kind of slimeball through the pipe controls again. Looks like another long night of water analysis. God, I hate space vermin..."
-Message="Registro: Oliver F. Russel, Assistente Científico: Eu sei que alguma coisa esta nos tanques de água de novo. Peter viu uma espécie de bola de lodo dentro dos canos de controle de novo. Parece que vai ser outra logna noite de análise da água. Deus, eu odeio vermes espaciais..."
+Message="Registro: Oliver F. Russel, Assistente Científico: Eu sei que alguma coisa esta nos tanques de água de novo. Peter viu uma espécie de bola de lodo dentro dos canos de controle de novo. Parece que vai ser outra longa noite de análise da água. Deus, eu odeio vermes espaciais..."
 
 [TranslatorEvent10]
 ; EN: Message="Log Andrew G. Jackson, Medical Officer: This has been a smooth ride, no major incidents for almost 2 weeks. And I'm still getting full payment. I think work doesn't get much better than this."
-Message="Registro: Andrew G. Jackson, Oficial Médico: Esta foi uma suave viagem, sem incidentes importantes por quase 2 semanas e eu ainda sou totalmente pago. Eu não acho que o trabalho pode ficar muito melhor do que isto."
+Message="Registro: Andrew G. Jackson, Oficial Médico: Esta foi uma viagem suave, sem maiores incidentes por quase 2 semanas. E ainda estou sendo pago integralmente. Eu acho que o trabalho não pode ficar muito melhor do que isto."
 
 [TranslatorEvent8]
 ; EN: Message="UMS Prometheus - Information Terminal: --- Information Network offline ---"
@@ -36,8 +36,8 @@ Message="SMU Prometeu - Circuitos de energia: Estado: Rede 3 normal"
 
 [TranslatorEvent2]
 ; EN: Message="UMS Prometheus - Engine 1 Status: Warning: Power level approaching limit | Critical: Pressure level exceeded limit! "
-Message="SMU Prometeu - Estado do motor 1: Aviso: Nível de energia aproximando-se do limite|Crítico: Nível de pressão excede o limite! "
+Message="SMU Prometeu - Estado do motor 1: Aviso: Nível de energia aproximando-se do limite | Crítico: Nível de pressão excede o limite! "
 
 [TranslatorEvent6]
 ; EN: Message="UMS Prometheus - Engine 1 Status: Warning: Power level approaching limit | Warning: Pressure level approaching limit"
-Message="SMU Prometeu - Estado do motor 1: Aviso: Nível de energia aproximando-se do limite|Crítico: Nível de pressão aproximando-se do limite!"
+Message="SMU Prometeu - Estado do motor 1: Aviso: Nível de energia aproximando-se do limite | Crítico: Nível de pressão aproximando-se do limite!"
