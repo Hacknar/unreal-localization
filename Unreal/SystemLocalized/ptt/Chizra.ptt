@@ -54,11 +54,11 @@ Message="Somente um guerreiro que porta o bastão de 6 fogos poderá entrar nas 
 
 [TranslatorEvent10]
 ; EN: Message="THE STICK OF 6 FIRES CAME FROM THE NALI WATER GOD WHEN THE STAR FELL FROM THE SKY. TO FIND THE STAR ONE MUST PASS THROUGH THE CEREMONIAL WING."
-Message="O BASTÃO DE 6 FOGOS VEIO DO DEUS NALI DA ÁGUA QUANDO A ESTRELA CAIU DO CÉU. PARA ENCONTRAR A ESTRELA UM DEVERÁ ATRAVESSAR A ASA CERIMONIAL."
+Message="O BASTÃO DE 6 FOGOS VEIO DO DEUS DA ÁGUA NALI QUANDO A ESTRELA CAIU DO CÉU. PARA ENCONTRAR A ESTRELA DEVERÁS ATRAVESSAR A ALA CERIMONIAL."
 
 [TranslatorEvent13]
 ; EN: Message="The pyramid's center is the focal point of Chizra the Nali water god's power."
-Message="O centro da pirâmide é o ponto focal do poder do deus Nali da água Chizra."
+Message="O centro da pirâmide é o ponto focal do poder do deus da água Nali, Chizra."
 
 [TranslatorEvent19]
 ; EN: Message="Climb the loose stones to reach the lagoon of lightning fire. Beware the demon who came from the stars lurks in the shadows. A fool shall surely perish."
@@ -78,7 +78,7 @@ Message="Somente um guerreiro que tenha tocado a face do ídolo do deus da água
 
 [TranslatorEvent3]
 ; EN: Message="To reach the pool of thunder one must climb the loose stones."
-Message="Para alcançar a piscina do trovão um deverá escalar as pedras soltas."
+Message="Para alcançar a piscina do trovão deverás escalar as pedras soltas."
 
 [TranslatorEvent15]
 ; EN: Message="1400 hours Commander Mac Harrison: SITREP: These local natives have a 6 barreled rocket launcher on an altar but it is heavily guarded by those Salamander things. "The Stick of 6 fires" is what the Nali keep calling it. I'll try to sneak in tonight."
