@@ -8,7 +8,7 @@ Title="Profundezas de Rrajigar"
 
 [TranslatorEvent4]
 ; EN: Message="WARNING: Exercise caution when in the vicinity of Tarydium barrels."
-Message="AVISO: Tenha cuidado quando estiver nas redondezas dos barris de Tarydium."
+Message="AVISO: Tenha cuidado quando estiver próximo dos barris de Tarydium."
 
 [TranslatorEvent17]
 ; EN: Message="Come on in, the Lava's fine!"
@@ -16,7 +16,7 @@ Message="Venha, a lava esta quentinha!"
 
 [TranslatorEvent18]
 ; EN: Message="Craig is Grand Master Doofus."
-Message="Craig é um Grande Mestre Abestado."
+Message="Craig é um Grão Mestre Abestado."
 
 [TranslatorEvent16]
 ; EN: Message="Canada is really cold. I like Dos Equis beer. My cats are fuzzy."
@@ -24,7 +24,7 @@ Message="O Canada é muito frio. Eu gosto da cerveja Dos Equis. Meus gatos são 
 
 [TranslatorEvent3]
 ; EN: Message="Secondary Tarydium transport cart activation unit."
-Message="Unidade de ativação do transporte Secundário de Tarydium."
+Message="Unidade secundária de ativação do transporte de Tarydium."
 
 [TranslatorEvent12]
 ; EN: Message="Gas Re-Routing Station Status: Doors are pressurized and locked."
@@ -34,4 +34,4 @@ AltMessage="Portas despressurizadas. Acesso permitido."
 
 [TranslatorEvent2]
 ; EN: Message="Primary Tarydium transport cart activation unit."
-Message="Unidade de ativação do transporte Primário de Tarydium."
+Message="Unidade primária de ativação do transporte  de Tarydium."
