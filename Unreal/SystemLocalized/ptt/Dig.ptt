@@ -18,7 +18,7 @@ Hint="Atire no botão vermelho nas proximidades para subir a estreita ponte por 
 
 [TranslatorEvent1]
 ; EN: Message="WARNING: Access bridges in lower half of mine are unsafe. Proceed with caution."
-Message="AVISO: Acessos às pontes na metade inferior da mina são inseguros. Prossiga com cautela."
+Message="AVISO: Pontes de acesso na metade inferior da mina são inseguros. Prossiga com cautela."
 
 [TranslatorEvent0]
 ; EN: Message="ALERT: Nali slave resistance detected in Sector 3A. Lethal force authorized to suppress rebellious activity."
@@ -26,11 +26,11 @@ Message="AVISO: Resistência de escravos Nali detectada no Setor 3A. Uso de for�
 
 [TranslatorEvent2]
 ; EN: Message="Harobed Village is on the other side of these mountains. I will wait until the two suns have set and proceed through Rrajigar mine. It is the only way."
-Message="O Vilarejo Harobed fica no outro lado dessas montanhas. Eu irei esperar até que dois sóis tenham se posicionado para prosseguir atravéz da mina Rrajigar. É a única maneira."
+Message="O Vilarejo Harobed fica no outro lado dessas montanhas. Vou esperar até que dois sóis tenham se posto para prosseguir atravéz da mina Rrajigar. É o único caminho."
 
 [TranslatorEvent10]
 ; EN: Message="WARNING: Force Field power source two status is inactive. Security Condition Two reached."
-Message="AVISO: Estado da fonte de energia dois do campo de força é inativo. Condição de segurança dois alcançada."
+Message="AVISO: Fonte de energia n. 2 do campo de força em estado inativo. Condição de segurança dois alcançada."
 
 [TranslatorEvent6]
 ; EN: Message="Force field intact. All systems normal."
@@ -46,32 +46,32 @@ Hint="Atire em todos os barris vermelhos."
 
 [TranslatorEvent9]
 ; EN: Message="WARNING: Force Field power source one status is inactive. Security Condition Two reached."
-Message="AVISO: Estado da fonte de energia um do campo de força é inativo. Condição de segurança dois alcançada."
+Message="AVISO: Fonte de energia n. 1 do campo de força em estado inativo. Condição de segurança dois alcançada."
 
 [TranslatorEvent19]
 ; EN: Message="NOTE: Area must be clear for transport lift to perform properly."
-Message="AVISO: Estado da fonte de energia um do campo de força é inativo. Condição de segurança dois alcançada."
+Message="AVISO: Área deve estar liberada para que o elevador de transporte opere adequadamente."
 
 [TranslatorEvent15]
 ; EN: Message="You are SO dead."
-Message="Você esta TÃO morto."
+Message="Você ESTÁ morto."
 
 [TranslatorEvent14]
 ; EN: Message="What the hell are you doing up here?"
-Message="O que diabos você está fazendo aqui?"
+Message="O que diabos você está fazendo aqui em cima?"
 
 [TranslatorEvent20]
 ; EN: Message="Force Field Control Area"
-Message="Área de controle de campo de força"
+Message="Área de controle do campo de força"
 
 [TranslatorEvent8]
 ; EN: Message="Force Field power source one status is active."
-Message="O estado da fonte de energia um do campo de força é ativo."
+Message="Fonte de energia n. 1 do campo de força em estado ativo."
 ; EN: Hint="Press the red buttons on the wall by bumping into them."
 Hint="Aperte os botões vermelhos na parede batendo neles."
 
 [TranslatorEvent7]
 ; EN: Message="Force Field power source two status is active."
-Message="O estado da fonte de energia dois do campo de força é ativo."
+Message="Fonte de energia n. 2 do campo de força em estado ativo."
 ; EN: Hint="Press the red buttons on the wall by bumping into them."
 Hint="Aperte os botões vermelhos na parede batendo neles."
