@@ -1,6 +1,6 @@
 ﻿[LevelInfo0]
 ; EN: Title="The Ceremonial Chambers"
-Title="As Câmaras de Cerimônias"
+Title="As Câmaras Cerimôniais"
 ; EN: LevelEnterText="Entering The Ceremonial Wing"
 LevelEnterText="Entrando na Ala de Cerimônias"
 
@@ -12,7 +12,7 @@ LevelEnterText="Entrando na Ala de Cerimônias"
 
 [TranslatorEvent15]
 ; EN: Message="The inner ceremonial chambers. Here the water god's serpents reside to accept the flesh of the weak to be devoured. Only a warrior who swims like the serpent shall escape their clutches."
-Message="As câmaras de cerimônias internas. Aqui moram os deuses serpente da água para aceitar a carne dos fracos para serem devorados. Somente um guerreiro que nada como a serpente escapará das garras delas."
+Message="As câmaras de cerimônias internas. Aqui as serpentes do Deus da água aguardam para aceitar a carne dos fracos a serem devorados. Somente um guerreiro que nada como a serpente escapará de suas garras."
 
 [TranslatorEvent0]
 ; EN: Message="Sgt. William Bradford: My entire squad has been killed by these salamander things. There's no ammo left and I've been holding up at this shrine with one of the native priests for days. While he prays I try and keep a watchful eye at the door."
